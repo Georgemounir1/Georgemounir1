@@ -17,15 +17,14 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" width=100px" height="35px"/>
 </div>
 <div id="about">
-###:Hi There :I am George: <br>
+###:Hi There : <br>
 <p>
-Okay I am George 24 Years old. I Graduated From Faculty Of Commerce English Department, Major in Accounting, Alexandria University. <br>
-I Worked Many Times Last Time was as a Dispatcher In Octopus Outsourcing Talabat Account - Delivery Hero co. 
-<br>
-I was Responsible for many things but we all Here For Something Inspiring Called "Data" I was responsible for making Many spreadsheets.<br>
-I could access The whole Company Data (Big Data) so i started to make some spreadsheets for me for Educational purposes Then I Found that it was not just a Data it was literally Treasure. Hundreds of Facts and Relations appear when i Do some Statistics. <br>
-So I Left my Job 😂, and Started to Learning Data Science it was one of the most Hard Decisions i made but <br>
-I think it deserves more and more. It's Enough . I Love walking with my Dogs DoDo, Bella and Caramella on the Weekends :3
+Okay I am George 25 Years old. I Graduated From Faculty Of Commerce English Department, Major in Accounting, Alexandria University. <br>
+I Worked Many Times before, Most of them are Call Center Representative in Well known Companies such as Delivery Hero (Talabat), Ooredoo, Zain & STC<br>
+I was Responsible for many things but we all Here For Something Inspiring Called "Developing" <br>
+For me I Go to Web Development it's a Great Experience and meaningful to Create Somethings inspire Customers & make User Experience more satisfying<br>
+Aslo I am an Excel Guru 😂 I studied Data Analysis <br>
+That's give me a lot of Tools like a Power BI 📊, Python Specially Pandas & Numpy. 
 </p>
 </div>
        <div id="badges" align="center">
