@@ -27,16 +27,9 @@ Aslo I am an Excel Guru 😂 I studied Data Analysis <br>
 That's give me a lot of Tools like a Power BI 📊, Python Specially Pandas & Numpy. 
 </p>
 </div>
-       <div id="badges" align="center">
-              <h3 align="center">Skills</h3>
-              <h3 align="center">1. Data Analysis</h3>
-          <img src="https://cdn1.iconfinder.com/data/icons/social-media-glossy/512/79-excel_social-256.png" alt="xlxs" width="50px" height="50px"/>
-          <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="xlxs" width="50px" height="50px"/>
-          <img src="https://cdn2.iconfinder.com/data/icons/mix-color-5/100/Mix_color_5__dwg-256.png" alt="xlxs" width="50px" height="50px"/>
-
-</div>
+      
 <div>
-              <h3 align="center">2. Web Development</h3>
+              <h3 align="center">1. Web Development</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -53,5 +46,12 @@ That's give me a lot of Tools like a Power BI 📊, Python Specially Pandas & Nu
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+ <div id="badges" align="center">
+              <h3 align="center">Skills</h3>
+              <h3 align="center">2. Data Analysis</h3>
+          <img src="https://cdn1.iconfinder.com/data/icons/social-media-glossy/512/79-excel_social-256.png" alt="xlxs" width="50px" height="50px"/>
+          <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="xlxs" width="50px" height="50px"/>
+          <img src="https://cdn2.iconfinder.com/data/icons/mix-color-5/100/Mix_color_5__dwg-256.png" alt="xlxs" width="50px" height="50px"/>
 
+</div>
 </div>
